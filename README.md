@@ -1,4 +1,4 @@
 writing
 =======
 
-versions my writing.
+versioned writing, edited in prose.io.
