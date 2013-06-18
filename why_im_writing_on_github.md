@@ -2,11 +2,23 @@
 
 _"It's immensely important that great poems be written, but it makes not a jot of difference who writes them."_  -- Ezra Pound
 
-Writers and coders strike me as similar. They learn the backbone of language, they play with it, and they create and destroy on top of it. It comes as no surprise that some great programmers are also great writers ([1](http://chadfowler.com/)|[2](https://plus.google.com/110981030061712822816/posts)).
+Writers and coders strike me as similar. They learn and understand the backbone of language, they play with it, and they ultimately create and destroy on top of it. It comes as no surprise that some great programmers are also great writers ([1](http://chadfowler.com/)|[2](https://plus.google.com/110981030061712822816/posts)).
 
-But, then, why don't more writers code?
+But then, why don't more writers code?
 
-I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And GitHub seems immensely practical for both of me. 
+I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And GitHub seems immensely practical and obvious for both.
 
-## The Practical
-There's the logistical 
+### Why It Works For Me
+1. Let's start with the obvious. I create 
+
+2. There is a huge psychological barrier to a static, blank online sheet of paper. 
+
+3. Writing is live
+
+### Why It Doesn't
+1. Writing Doesn't Scale
+
+### Why It Can Work For Writers
+#### The Economics of Version Control
+#### Things I'd Like To See
+### Why It May Not 
