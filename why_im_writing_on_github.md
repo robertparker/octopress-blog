@@ -9,7 +9,7 @@ But then, why don't more writers code?
 I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And GitHub seems immensely practical and obvious for both.
 
 ### Why It Works For Me
-1. Let's start with the obvious. I create 
+1. Versioning. 
 
 2. There is a huge psychological barrier to a static, blank online sheet of paper. 
 
