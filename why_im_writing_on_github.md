@@ -9,15 +9,18 @@ But then, why don't more writers code?
 I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And GitHub seems immensely practical for both.
 
 ## Why It Works For Me
-1. __Versioning.__ The clear selling point is not having to manage multiple versions of your document (my personal record is 22), which aside from being logistically difficult to manage, does not provide a clear audit of what changed from version to version.
+#### versioning
+There is a clear advantage in not having to manage multiple versions of a single manuscript (my personal record was 22 in college).  But the solutions are out there. Google Docs and Dropbox have been revelations in solving the challenges of editing a document across different devices. Bloggging platforms also allow you to access and edit a post anywhere in the cloud.
 
-2. Blogging platforms (Blogger, Tumblr, Medium) have been the only medium for self-publication on the Internet for writers. And two significant ways they inherit the same poor psychology as paper publication: 
+But in both cases, these inherit the same poor psychology as paper publication.
 
-    - each one present you with a static and blank sheet of paper, or the last version you wrote. 
-	- 
-	- 
-    
-3. __Writing is live.__ I once saw Junot Diaz speak at the National Book Festival. I head just finished reading _The Brief Wondrous Life of Oscar Wao_ and thought it was the a near perfect book. It surprised me to hear that he wished it had steeped in his brain for longer, and then he consider a lot of the parts to be messed up. 
+#### the blank paper
+Blogging platforms (Blogger, Tumblr, Medium) have been the only medium for self-publication on the Internet for writers. And two significant ways they inherit the same poor psychology as paper publication: 
+
+each one present you with a static and blank sheet of paper, or the last version you wrote. 
+
+#### the static opinion
+I once saw Junot Diaz speak at the National Book Festival. I head just finished reading _The Brief Wondrous Life of Oscar Wao_ and thought it was the a near perfect book. It surprised me to hear that he wished it had steeped in his brain for longer, and then he consider a lot of the parts to be messed up. 
 
 
 
