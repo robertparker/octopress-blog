@@ -2,7 +2,7 @@
 
 _"It's immensely important that great poems be written, but it makes not a jot of difference who writes them."_  -- Ezra Pound
 
-Writers and coders strike me as similar. They learn and understand the backbone of language, they play with it, and they ultimately create and destroy on top of it. It comes as no surprise that some great programmers are also great writers ([1](http://chadfowler.com/)|[2](https://plus.google.com/110981030061712822816/posts)).
+Writers and coders strike me as similar. They learn and understand the backbone of language, they play with it, and they ultimately create and destroy on top of it. It comes as no surprise that some great programmers are also great writers ([ex 1](http://chadfowler.com/)|[ex 2](https://plus.google.com/110981030061712822816/posts)).
 
 But then, why don't more writers code?
 
@@ -11,7 +11,7 @@ I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And 
 ### Why It Works For Me
 1. Versioning. 
 
-2. There is a huge psychological barrier to a static, blank online sheet of paper. 
+2. Blogging platforms (Blogger, Twitter have been the only medium for self-publication on the Internet for long-form writers. And those impose a curious psychology on their users. 
 
 3. Writing is live
 
