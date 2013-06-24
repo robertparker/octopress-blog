@@ -1,12 +1,12 @@
 # Why I'm Writing on GitHub
 
-_"It's immensely important that great poems be written, but it makes not a jot of difference who writes them."_  -- Ezra Pound
+_"It's immensely important that great poems be written, but it makes not a jot of difference who writes them."_  - Ezra Pound
 
-Writers and coders strike me as similar. They learn and understand the backbone of language, they play with it, and they ultimately create and destroy on top of it. It comes as no surprise that some great programmers are also great writers ([here's.](http://chadfowler.com/) [some.](https://plus.google.com/110981030061712822816/posts) [examples.](http://www.aaronsw.com/weblog/)).
+Writers and coders strike me as similar. They learn and understand the backbone of language, they play with it, and they ultimately create and destroy on top of it. It comes as no surprise that some great Coders are also great writers ([here's.](http://chadfowler.com/) [some.](https://plus.google.com/110981030061712822816/posts) [examples](http://www.aaronsw.com/weblog/)).
 
 But then, why aren't more writers on GitHub?
 
-I don't mean tech bloggers. I mean the journalist who has dozens of back-and-forth revisions with her editor. I mean the MFA who has re-written the same sentence twenty times. I mean the teenager who dropped out of high school to write the next Great American Novel. You know, Writers. 
+I don't mean tech bloggers. I mean the journalist who has dozens of back-and-forths with her editor. I mean the MFA who has re-written the same sentence twenty times. I mean the teenager who is writing the next Great American Novel. You know, Writers. 
 
 I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And GitHub seems immensely practical for both.
 
@@ -14,9 +14,9 @@ I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And 
 #### versioning
 In college, my personal record for multiple versions of a manuscript was 22. Impressive, but there are solutions now. Google Docs and Dropbox have been revelations in solving the challenges of editing a document across different devices. Bloggging platforms also allow you to access and edit a post anywhere in the cloud.
 
-Git surpasses both those services. Enter `git commit -m 'my message'` and `git diff version1..version2 my_file`. Git diff allows me to see the text differences between any two of my versions, and commits allow me to comment on the specific save. 
+Git surpasses both those services. Enter `git commit -m 'my message'` and `git diff version1..version2 my_file`. Diffs allows me to see the text differences between any two of my versions, and commits allow me to comment on the specific save. Now I know exactly what changed every time I hit `Ctrl+S`.
 
-But in both cases, these inherit the same poor psychology as paper publication.
+And there's forking. Let's say I wanted to rewrite this article to submit to an online magazine. In that case, `git clone my_article` lets me rewrite in an entirely different style, while I can use `git branch new_revision` to begin a new train of thought I can merge into my final draft later.
 
 #### the blank paper
 Blogging platforms (Blogger, Tumblr, Medium) have been the only medium for self-publication on the Internet for writers. And two significant ways they inherit the same poor psychology as paper publication: 
@@ -36,7 +36,7 @@ I once saw Junot Diaz speak at the National Book Festival. I head just finished 
 ## The Economics of Version Control
 The Nobel-winning economist Douglass North once wrote that the establishment of property rights has been  
 
-## Things I'd Like To See
+## What if Joyce Forked _The Odyssey_?
 Choose your own adventure
 Writing assignments forked
 Fan Lit
