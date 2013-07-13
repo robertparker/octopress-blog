@@ -12,11 +12,12 @@ I don't know. I'm not a Writer and I'm not a Coder, but I write and I code. And 
 
 ## Why It Works For Me
 #### versioning
-In college, my personal record for multiple versions of a manuscript was 22. Impressive, but there are solutions now. Google Docs and Dropbox have been revelations in solving the challenges of editing a document across different devices. Bloggging platforms also allow you to access and edit a post anywhere in the cloud.
+In college, my personal record for multiple versions of a manuscript was 22. Impressive, but there are solutions now. Google Docs and Dropbox have been revelations in solving the challenges of editing a document across different machines. Bloggging platforms also allow you to access and edit a post anywhere in the cloud.
 
 Git surpasses both those services. Enter `git commit -m 'my message'` and `git diff version1..version2 my_file`. Diffs allows me to see the text differences between any two of my versions, and commits allow me to comment on the specific save. Now I know exactly what changed every time I hit `Ctrl+S`.
 
-And there's forking. Let's say I wanted to rewrite this article to submit to an online magazine. In that case, `git clone my_article` lets me rewrite in an entirely different style, while I can use `git branch new_revision` to begin a new train of thought I can merge into my final draft later.
+#### forking
+Let's say I wanted to rewrite this article to submit to an online magazine. In that case, `git clone my_article` lets me rewrite in an entirely different style, while I can use `git branch new_revision` to begin a new train of thought I can merge into my final draft later.
 
 #### the blank paper
 Blogging platforms (Blogger, Tumblr, Medium) have been the only medium for self-publication on the Internet for writers. And two significant ways they inherit the same poor psychology as paper publication: 
@@ -33,14 +34,19 @@ I once saw Junot Diaz speak at the National Book Festival. I head just finished 
 ## Why It Doesn't
 #### writing doesn't scale
 
+#### the language of Git is not intuitive for software development, not manuscript writing
+
 ## The Economics of Version Control
-The Nobel-winning economist Douglass North once wrote that the establishment of property rights has been  
+The Nobel-winning economist Douglass North once wrote that the establishment of property rights has been the cornerstone of innovation in our society: people keep creating when they know they can reap benefits -- called "rents" -- from their work. 
+
+North (and much of economics) assume "rents" to be money. In today's open source world, they're mistaken: the better part of the Internet has built by volunteers, whose only reward is either respect within the online community or 
 
 ## What if Joyce Forked _The Odyssey_?
-Choose your own adventure
-Writing assignments forked
-Fan Lit
-Famous authors on Github
+
+* Choose your own adventure
+* Writing assignments forked
+* Fan Lit
+* Famous authors on Github
 
 ### Why It May Not
 Institutional consideration
