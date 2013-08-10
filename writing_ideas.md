@@ -1,0 +1,4 @@
+# Writing Ideas
+
+## First To Brand Matters More than First To Market.
+It is the beginning of the Internet Era, and [http://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/](today's business models) for high-growth startups are built by rapidly accumulating users. Necessarily, today's entrepreneurs aren't technologists, they are marketers and designers. While it's important to scale a business with technology, the key to scaling in the first place is brand. What matters in the early stages of a company isn't the technology, it's the brand and the users that brand attracts.
