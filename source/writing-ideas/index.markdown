@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: page
 title: "Writing Ideas"
 date: 2013-08-18 20:42
 comments: false
 categories: 
+sharing: false
+footer: true
 ---
 
 ## First To Brand Matters More than First To Market.
