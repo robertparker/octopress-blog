@@ -4,7 +4,7 @@
   <title><![CDATA[Rohit Parulkar]]></title>
   <link href="http://robertparker.github.io/atom.xml" rel="self"/>
   <link href="http://robertparker.github.io/"/>
-  <updated>2013-08-18T22:52:59-04:00</updated>
+  <updated>2013-08-19T09:53:26-04:00</updated>
   <id>http://robertparker.github.io/</id>
   <author>
     <name><![CDATA[Rohit Parulkar]]></name>
@@ -36,48 +36,43 @@
 
 <p>Git surpasses both those services. Enter <code>git commit -m 'my message'</code> and <code>git diff version1..version2 my_file</code>. Diffs allows me to see the text differences between any two of my versions, and commits allow me to comment on the specific save. Now I know exactly what changed every time I hit <code>Ctrl+S</code>.</p>
 
-<h4>forking</h4>
+<!-- #### forking
+Let's say I wanted to rewrite this article to submit to an online magazine. In that case, `git clone my_article` lets me rewrite in an entirely different style, while I can use `git branch new_revision` to begin a new train of thought I can merge into my final draft later.
 
-<p>Let&rsquo;s say I wanted to rewrite this article to submit to an online magazine. In that case, <code>git clone my_article</code> lets me rewrite in an entirely different style, while I can use <code>git branch new_revision</code> to begin a new train of thought I can merge into my final draft later.</p>
+#### the blank paper
+Blogging platforms (Blogger, Tumblr, Medium) have been the only medium for self-publication on the Internet for writers. And two significant ways they inherit the same poor psychology as paper publication: 
 
-<h4>the blank paper</h4>
+each one present you with a static and blank sheet of paper, or the last version you wrote. 
 
-<p>Blogging platforms (Blogger, Tumblr, Medium) have been the only medium for self-publication on the Internet for writers. And two significant ways they inherit the same poor psychology as paper publication:</p>
-
-<p>each one present you with a static and blank sheet of paper, or the last version you wrote.</p>
-
-<h4>the static opinion</h4>
-
-<p>I once saw Junot Diaz speak at the National Book Festival. I head just finished reading <em>The Brief Wondrous Life of Oscar Wao</em> and thought it was the a near perfect book. It surprised me to hear that he wished it had steeped in his brain for longer, and then he consider a lot of the parts to be messed up.</p>
-
-<p>&ldquo;When my information changes, I change my opinion. What do you do, Sir?&rdquo; &ndash; John Maynard Keynes</p>
-
-<h2>Why It Doesn&rsquo;t</h2>
-
-<h4>writing doesn&rsquo;t scale</h4>
-
-<h4>the language of Git is not intuitive for software development, not manuscript writing</h4>
-
-<h2>The Economics of Version Control</h2>
-
-<p>The Nobel-winning economist Douglass North once wrote that the establishment of property rights has been the cornerstone of innovation in our society: people keep creating when they know they can reap benefits &mdash; called &ldquo;rents&rdquo; &mdash; from their work.</p>
-
-<p>North (and much of economics) assume &ldquo;rents&rdquo; to be money. In today&rsquo;s open source world, they&rsquo;re mistaken: the better part of the Internet has built by volunteers, whose only reward is either respect within the online community or</p>
-
-<h2>What if Joyce Forked <em>The Odyssey</em>?</h2>
-
-<ul>
-<li>Choose your own adventure</li>
-<li>Writing assignments forked</li>
-<li>Fan Lit</li>
-<li>Famous authors on Github</li>
-</ul>
+#### the static opinion
+I once saw Junot Diaz speak at the National Book Festival. I head just finished reading _The Brief Wondrous Life of Oscar Wao_ and thought it was the a near perfect book. It surprised me to hear that he wished it had steeped in his brain for longer, and then he consider a lot of the parts to be messed up. 
 
 
-<h3>Why It May Not</h3>
 
-<p>Institutional consideration
-Social Norms</p>
+"When my information changes, I change my opinion. What do you do, Sir?" - John Maynard Keynes
+
+## Why It Doesn't
+#### writing doesn't scale
+
+#### the language of Git is not intuitive for software development, not manuscript writing
+
+## The Economics of Version Control
+The Nobel-winning economist Douglass North once wrote that the establishment of property rights has been the cornerstone of innovation in our society: people keep creating when they know they can reap benefits -- called "rents" -- from their work. 
+
+North (and much of economics) assume "rents" to be money. In today's open source world, they're mistaken: the better part of the Internet has built by volunteers, whose only reward is either respect within the online community or 
+
+## What if Joyce Forked _The Odyssey_?
+
+* Choose your own adventure
+* Writing assignments forked
+* Fan Lit
+* Famous authors on Github
+
+### Why It May Not
+Institutional consideration
+Social Norms
+ -->
+
 ]]></content>
   </entry>
   
@@ -106,7 +101,7 @@ Social Norms</p>
 
 <p> This is something historic, I think. In the history of sports, we tend to view athletes as non-people, or martyrs. See: Greek heroes in the Colosseum. More recently, David Foster Wallace stated that athletes catalyze the awareness of having a body. In this view of sports, it isn’t about athletes at all: it’s about us  and our obsession with playing out narratives.</p>
 
-<p> (Long footnote: let’s differentiate this from two concurrent trends:</p>
+<p> &lt;!&mdash; (Long footnote: let’s differentiate this from two concurrent trends:</p>
 
 <p>Let’s also differentiate this from the shift in editorial authority away from all news outlets: yes, this is happening but its generally a case of economics — the business model not working. Nobody contests the value of journalism to uncover and explain important issues. In contrast, sports journalism is currently a booming industry, yet its legitimacy is crumbling underneath its feet. Why?)</p>
 
@@ -140,7 +135,8 @@ Social Norms</p>
 
 <p>“When art critics get together they talk about Form and Structure and Meaning. When artists get together they talk about where you can buy cheap turpentine.” — Picasso</p>
 
-<p>Picasso once said, “when art critics get together, they talk about things like Form and Structure. When artists meet, they ask where to get cheap turpentine.” Again, this is an awkward transitory phase, and I look forward to the first iconic moment (NBA player podcast? talk show?) , and when it happens, I can’t wait to become a fan of that thing we’ll still call Sports.</p>
+<p>Picasso once said, “when art critics get together, they talk about things like Form and Structure. When artists meet, they ask where to get cheap turpentine.” Again, this is an awkward transitory phase, and I look forward to the first iconic moment (NBA player podcast? talk show?) , and when it happens, I can’t wait to become a fan of that thing we’ll still call Sports.
+ &mdash;></p>
 ]]></content>
   </entry>
   
