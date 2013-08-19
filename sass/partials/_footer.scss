@@ -3,6 +3,7 @@ body > footer {
   font-size: .8em;
   color: $footer-color;
   text-shadow: lighten($footer-bg, 5) 0 1px;
+  text-decoration: none;
   background-color: $footer-bg;
   @include background($footer-bg-front, $footer-bg-back);
   border-top: 1px solid $footer-border-top;
@@ -12,6 +13,7 @@ body > footer {
   margin-bottom: 3em;
   @include border-bottom-radius(.4em);
   z-index: 1;
+  border: $footer-border;
   a {
     @include link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color);
   }

@@ -15,4 +15,6 @@ body > header {
     color: $subtitle-color;
     font-weight: normal;
   }
+  border: $header-border;
+  text-decoration: none;
 }

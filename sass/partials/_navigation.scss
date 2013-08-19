@@ -2,15 +2,16 @@ body > nav {
   position: relative;
   background-color: $nav-bg;
   @include background($nav-bg-front, $nav-bg-back);
-  border: {
-    top: 1px solid $nav-border-top;
-    bottom: 1px solid $nav-border-bottom; }
+  //border: {
+  //  top: 1px solid $nav-border-top;
+  //  bottom: 1px solid $nav-border-bottom; }
+  border: $nav-border;
   padding-top: .35em;
   padding-bottom: .35em;
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
-    .search {
+    /* .search {
       padding: .3em .5em 0;
       font-size: .85em;
       font-family: $sans;
@@ -22,6 +23,13 @@ body > nav {
       background-color: lighten($nav-bg, 15);
       border: 1px solid $nav-border;
       color: #888;
+      } */
+      .search {
+        padding: .3em .5em 0;
+        font-size: .85em;
+        font-family: $sans;
+        border: none;
+        color: #262626;
       &:focus {
         color: #444;
         border-color: #80b1df;

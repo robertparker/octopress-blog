@@ -1,24 +1,30 @@
 $noise-bg: image-url('noise.png') top left !default;
+$white-bg: #fff !default;
 $img-border: inline-image('dotted-border.png') !default;
 
 // Main Link Colors
-$link-color: lighten(#165b94, 3) !default;
+// $link-color: lighten(#165b94, 3) !default;
+$link-color: #262626 !default;
 $link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
 $link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
-$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+// $link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+$link-color-active: #262626 !default;
 
 // Main Section Colors
-$main-bg: #f8f8f8 !default;
-$page-bg: #252525 !default;
+$main-bg: #fff !default;
+$page-bg: #fff !default;
 $article-border: #eeeeee !default;
 
-$header-bg: #333 !default;
+$header-bg: #fff !default;
 $header-border: lighten($header-bg, 15) !default;
-$title-color: #f2f2f2 !default;
+$title-color: #262626 !default;
 $subtitle-color: #aaa !default;
+$header-border: 1px solid;
 
-$text-color: #222 !default;
-$text-color-light: #aaa !default;
+// $text-color: #222 !default;
+// $text-color-light: #aaa !default;
+$text-color: #262626 !default;
+$text-color-light: #262626 !default;
 $type-border: #ddd !default;
 
 /* Navigation */
@@ -33,6 +39,7 @@ $nav-border-top: lighten($nav-bg, 15) !default;
 $nav-border-bottom: darken($nav-bg, 25) !default;
 $nav-border-left: darken($nav-bg, 11) !default;
 $nav-border-right: lighten($nav-bg, 7) !default;
+$nav-border: 1px solid;
 
 /* Sidebar colors */
 $sidebar-bg: #f2f2f2 !default;
@@ -45,7 +52,7 @@ $sidebar-border-hover: darken($sidebar-bg, 7) !default;
 $sidebar-link-color-subdued: lighten($sidebar-color, 20) !default;
 $sidebar-link-color-subdued-hover: $sidebar-link-color-hover !default;
 
-$footer-color: #888 !default;
+$footer-color: #262626 !default;
 $footer-bg: #ccc !default;
 $footer-bg-front: image-url('noise.png') !default;
 $footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11)) !default;
@@ -56,6 +63,7 @@ $footer-border-bottom: darken($footer-bg, 15) !default;
 $footer-link-color: darken($footer-bg, 38) !default;
 $footer-link-color-hover: darken($footer-color, 25) !default;
 $page-border-bottom: darken($footer-bg, 5) !default;
+$footer-border: 1px solid;
 
 
 /* Core theme application */
@@ -71,15 +79,21 @@ a {
 }
 
 html {
-  background: $page-bg image-url('line-tile.png') top left;
+  // background: $page-bg image-url('line-tile.png') top left;
+  background: $white-bg;
+  text-decoration: none;
 }
 body {
   > div {
-    background: $sidebar-bg $noise-bg;
-    border-bottom: 1px solid $page-border-bottom;
+    // background: $sidebar-bg $noise-bg;
+    text-decoration: none;
+    background: $white-bg;
+    // border-bottom: 1px solid $page-border-bottom;
+    border: 1px solid;
     > div {
-      background: $main-bg $noise-bg;
-      border-right: 1px solid $sidebar-border;
+      background: $main-bg $white-bg;
+      // border-right: 1px solid $sidebar-border;
+      border: 1px solid;
     }
   }
 }
