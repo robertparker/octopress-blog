@@ -26,7 +26,7 @@ In athletes, we are discovering an entirely new sphere of information we’ve ha
 
  This is something historic, I think. In the history of sports, we tend to view athletes as non-people, or martyrs. See: Greek heroes in the Colosseum. More recently, David Foster Wallace stated that athletes catalyze the awareness of having a body. In this view of sports, it isn’t about athletes at all: it’s about us  and our obsession with playing out narratives.
 
- (Long footnote: let’s differentiate this from two concurrent trends:
+ <!-- (Long footnote: let’s differentiate this from two concurrent trends:
 
 Let’s also differentiate this from the shift in editorial authority away from all news outlets: yes, this is happening but its generally a case of economics — the business model not working. Nobody contests the value of journalism to uncover and explain important issues. In contrast, sports journalism is currently a booming industry, yet its legitimacy is crumbling underneath its feet. Why?)
 
@@ -63,3 +63,4 @@ End with Lebron tweet vs. quote: very, very different, but both pablam.
  
 
 Picasso once said, “when art critics get together, they talk about things like Form and Structure. When artists meet, they ask where to get cheap turpentine.” Again, this is an awkward transitory phase, and I look forward to the first iconic moment (NBA player podcast? talk show?) , and when it happens, I can’t wait to become a fan of that thing we’ll still call Sports.
+ -->

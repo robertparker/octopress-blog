@@ -22,7 +22,7 @@ In college, my personal record for multiple versions of a manuscript was 22. Imp
 
 Git surpasses both those services. Enter `git commit -m 'my message'` and `git diff version1..version2 my_file`. Diffs allows me to see the text differences between any two of my versions, and commits allow me to comment on the specific save. Now I know exactly what changed every time I hit `Ctrl+S`.
 
-#### forking
+<!-- #### forking
 Let's say I wanted to rewrite this article to submit to an online magazine. In that case, `git clone my_article` lets me rewrite in an entirely different style, while I can use `git branch new_revision` to begin a new train of thought I can merge into my final draft later.
 
 #### the blank paper
@@ -57,3 +57,4 @@ North (and much of economics) assume "rents" to be money. In today's open source
 ### Why It May Not
 Institutional consideration
 Social Norms
+ -->
