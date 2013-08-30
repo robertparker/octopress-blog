@@ -1,6 +1,7 @@
 require "rubygems"
 require "bundler/setup"
 require "stringex"
+require "grit"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
@@ -204,6 +205,12 @@ task :update_source, :theme do |t, args|
   mv "#{source_dir}/index.html", "#{blog_index_dir}", :force=>true if blog_index_dir != source_dir
   cp "#{source_dir}.old/index.html", source_dir if blog_index_dir != source_dir && File.exists?("#{source_dir}.old/index.html")
   puts "## Updated #{source_dir} ##"
+end
+
+desc "create the landing page using the most recent commits of each blog post"
+task :create_homepage, :theme do |t, args|
+  theme = args.theme || 'classic'
+  cd posts_dir
 end
 
 ##############
