@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Writing Ideas"
-date: 2013-08-18 20:42
+title: Writing Ideas
+date: "2013-08-18 20:42"
 comments: false
-categories: 
+categories: null
 sharing: false
 footer: true
+published: true
 ---
 
 ## First To Brand Matters More than First To Market.
@@ -16,3 +17,10 @@ A classic paradox posed by Plutarch: A ship is replaced piece by piece on a voya
 
 ## Building The Culture Stack.
 We often make the mistake of assuming that a company's culture is defined simply by its workplace and its happy hours. That's the equivalent of judging a firm's technology by its homepage. In fact, the culture stack is defined by several key areas spanning the lifetime of an employee: hiring practice, employee onboarding, monetary compensation, career growth, business process, marketing & PR, and finally social engagement.
+
+<!--
+## The Impossibility of Taking Advice.
+It's 
+
+## Why Airplanes Failed.
+-->
